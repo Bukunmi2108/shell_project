@@ -81,3 +81,7 @@ To remove build artifacts:
 ```bash
 make clean
 ```
+
+---
+[Check out the video](https://1drv.ms/v/c/4ad23e53cfa94e72/IQBAlBFF1IoERYYRpxC0LEHoAT5mWwzCyF0iJdhwjmkA6Xk?e=bW2wGU)
+
