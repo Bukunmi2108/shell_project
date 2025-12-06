@@ -26,3 +26,9 @@ chat.o: chat.c shell.h
 
 clean:
 	rm -f $(OBJS) $(TARGET)
+
+install: $(TARGET)
+	sudo cp $(TARGET) /usr/local/bin/
+
+uninstall:
+	sudo rm -f /usr/local/bin/$(TARGET)
