@@ -1,3 +1,15 @@
+# Object files
 *.o
+
+# Executables
 *.out
+myshell
+
+# IDE directories
 .vscode/
+.idea/
+
+# Other build artifacts
+*.a
+*.so
+*.dylib
